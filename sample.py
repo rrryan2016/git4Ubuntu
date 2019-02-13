@@ -17,5 +17,8 @@ sess.run(e) # 运行网络，输出节点e
 print(sess.run(e))
 
 #  Can u motherfxxker feel me!!??
+# I can !!
+
+# Trial2 - visualize network data flow pic
 
 
