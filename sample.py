@@ -20,5 +20,9 @@ print(sess.run(e))
 # I can !!
 
 # Trial2 - visualize network data flow pic
+writer = tf.summary.FileWriter('./my_graph',sess.graph)    
+# 将sess的数据流图和数据和概括统计量存入执行目录下的my_graph目录，输入为sess的graph属性
+
+
 
 
