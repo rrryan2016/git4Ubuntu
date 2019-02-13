@@ -16,6 +16,6 @@ sess = tf.Session() # 申明一个tensorflow Session变量，任何一个tensorf
 sess.run(e) # 运行网络，输出节点e
 print(sess.run(e))
 
-# 
+#  Can u motherfxxker feel me!!??
 
 
